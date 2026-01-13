@@ -34,12 +34,11 @@
 
 ## 🛠️ Tech Stack
 MERN
-
-- **Database&&: MongoDB
 - **Frontend**: React.js 
 - **Backend**: Node.js / Express.js /Socket.io
 - **Authentication**: Firebase Auth
 - **Real-time Engine**: Socket.io 
+- **Database**: MongoDB
 
 ---
 
